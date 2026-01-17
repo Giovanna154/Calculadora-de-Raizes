@@ -16,6 +16,3 @@ Este projeto consiste em uma ferramenta desenvolvida em **JavaScript** para auto
 Se você tiver o Node.js instalado, basta rodar:
 ```bash
 node main.js
-
-## ✍️ Autora
-Desenvolvido por [Giovanna Cavalcanti] (https://github.com/Giovanna154).
